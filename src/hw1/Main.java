@@ -8,7 +8,7 @@ import javax.xml.namespace.QName;
 public class Main {
     public static void main(String[] args) {
 
-
+        //Всем приветы!!!!!!!!!!!!!ы
         Competitors[] competitors = {
             new Human("Борис", 2000, 4),
             new Cat("Мурзик", 200, 7),
